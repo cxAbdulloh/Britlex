@@ -28,7 +28,7 @@ const Navbar = () => {
     </nav>
 
     <nav id='hamburger-nav'>
-        <div className="logo">Britlex</div>
+        <div className="logo">Brit<span style={{color: "#8F95A5"}}>lex</span></div>
         <div className="hamburger-menu">
             <div className="nothing">
                 <button className="nav-btn">Let's Talk</button>
