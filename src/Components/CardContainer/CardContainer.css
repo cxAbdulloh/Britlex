@@ -1,0 +1,58 @@
+.card-text {
+  font-size: 1.8rem;
+  text-align: center;
+  margin-top: 50px;
+}
+.card-section {
+  padding: 0 20px;
+  padding-top: 80px;
+}
+
+.card-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 120px;
+  justify-content: center;
+}
+
+.course-card {
+  flex: 1 1 300px;
+  max-width: 320px;
+  text-align: center;
+}
+
+.course-card img {
+  width: 100%;
+  height: 290px; 
+  object-fit: contain; 
+    
+}
+
+.course-card h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #263238;
+}
+
+.course-card p {
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 20px;
+}
+
+.price {
+  font-size: 18px;
+  background-color: #EEEEEE;
+  color: #111827;
+  border-radius: 5px;
+  padding: 7px 0;
+}
+
+.price span {
+  font-size: 14px;
+  color: #6b7280;
+  margin-left: 8px;
+}
