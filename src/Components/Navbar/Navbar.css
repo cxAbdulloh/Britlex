@@ -31,6 +31,10 @@ a {
   font-size: 2rem;
 }
 
+.logo span {
+  color: "#8F95A5"
+}
+
 .nav-btn {
     background-color: #fff;
     color: #000000;
